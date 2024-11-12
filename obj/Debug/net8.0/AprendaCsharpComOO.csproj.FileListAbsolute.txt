@@ -1,0 +1,14 @@
+D:\FormacaoCsharp\AprendaCsharpComOO\bin\Debug\net8.0\AprendaCsharpComOO.exe
+D:\FormacaoCsharp\AprendaCsharpComOO\bin\Debug\net8.0\AprendaCsharpComOO.deps.json
+D:\FormacaoCsharp\AprendaCsharpComOO\bin\Debug\net8.0\AprendaCsharpComOO.runtimeconfig.json
+D:\FormacaoCsharp\AprendaCsharpComOO\bin\Debug\net8.0\AprendaCsharpComOO.dll
+D:\FormacaoCsharp\AprendaCsharpComOO\bin\Debug\net8.0\AprendaCsharpComOO.pdb
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\AprendaCsharpComOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\AprendaCsharpComOO.AssemblyInfoInputs.cache
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\AprendaCsharpComOO.AssemblyInfo.cs
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\AprendaCsharpComOO.csproj.CoreCompileInputs.cache
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\AprendaCsharpComOO.dll
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\refint\AprendaCsharpComOO.dll
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\AprendaCsharpComOO.pdb
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\AprendaCsharpComOO.genruntimeconfig.cache
+D:\FormacaoCsharp\AprendaCsharpComOO\obj\Debug\net8.0\ref\AprendaCsharpComOO.dll
